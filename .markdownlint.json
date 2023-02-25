@@ -1,0 +1,13 @@
+{
+    "MD033": {
+        "allowed_elements": [
+            "nobr",
+            "sup",
+            "span",
+            "img"
+        ]
+    },
+    "MD013": {
+        "line_length": 500
+    }
+}
