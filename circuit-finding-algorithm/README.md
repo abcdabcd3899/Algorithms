@@ -10,7 +10,4 @@ An implementation of the Johnson's circuit finding algorithm [1].
 ```shell
 	$ g++ -std=c++11 Example.cpp
 	$ ./a.out
-	circuit: 1 -> 2 -> 3 -> 5 -> 1
-	circuit: 1 -> 2 -> 4 -> 3 -> 5 -> 1
-	circuit: 2 -> 2
 ```
