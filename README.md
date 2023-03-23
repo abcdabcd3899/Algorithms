@@ -96,6 +96,7 @@
   * [LeetCode142.cpp Linked List Cycle II AC](https://github.com/abcdabcd3899/Algorithms/blob/master/Traditional-Algorithms/LeetCode142.cpp)
   * [LeetCode287.cpp Find the Duplicate Number AC 数组其实也是一个链表，如果能带着这个观点，这道题目完全和142相同](https://github.com/abcdabcd3899/Algorithms/blob/master/Traditional-Algorithms/LeetCode287.cpp)
   * [LeetCode876.cpp Middle of the Linked List AC](https://github.com/abcdabcd3899/Algorithms/blob/master/Traditional-Algorithms/LeetCode876.cpp)
+  * [circuit finding algorithm Johnson'75](https://github.com/abcdabcd3899/Algorithms/blob/master/circuit-finding-algorithm/Example.cpp)
 * <span id=kmp>KMP</span>
   * [kmp.cpp brute search](https://github.com/abcdabcd3899/Algorithms/blob/master/Traditional-Algorithms/kmp.cpp)
   * [LeetCode28.cpp Implement strStr() AC KMP](https://github.com/abcdabcd3899/Algorithms/blob/master/Traditional-Algorithms/LeetCode28.cpp)
